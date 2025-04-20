@@ -1,0 +1,70 @@
+{
+  "credentials" : [ 
+    {
+      "id" : 1,
+      "hostname" : "site1",
+      "login_password" : "ade6c674ff44e42d7a175d76c22d1e3f5a9288dd978feb021684d30c4b5d0b69",
+      "salt" : "qi8HO2"
+    },
+    {
+      "id" : 2,
+      "hostname" : "site2",
+      "login_password" : "3824f50f43defbc0b443f052341dad9f21c53cdc61643442d5dc50d566ff65ce",
+      "salt" : "5RSK"
+    },
+    {
+      "id" : 3,
+      "hostname" : "site3",
+      "login_password" : "3c7e1d00d9b29bf2958644f31f23c6a69961fb26be0e6476db54d8c90abae315",
+      "salt" : "DFGS-3KMBR"
+    },
+    {
+      "id" : 4,
+      "hostname" : "site4",
+      "login_password" : "f538a77b2de3b69765048dd58b2086f1b43162cc7ea3a7159d49339e829332cb",
+      "salt" : "egkldgR"
+    },
+    {
+      "id" : 5,
+      "hostname" : "site5",
+      "login_password" : "9a554f3f35ca65086aff4103476b9fba11ef6f6a3053cad00c8f8c0185338d92",
+      "salt" : "fhrhwFgreg"
+    },
+    {
+      "id" : 6,
+      "hostname" : "site6",
+      "login_password" : "3a582f1d607534cfca381ae15206b78fe1328c41d9d42736698da1d68b970c8e",
+      "salt" : "WEFWEG454"
+    },
+    {
+      "id" : 7,
+      "hostname" : "site7",
+      "login_password" : "3d33bd9e1673edc19d9a2db8ecbf1c6da2d2e98f1b48ebe62bacb751ef846052",
+      "salt" : "SDVsvF234"
+    },
+    {
+      "id" : 8,
+      "hostname" : "site8",
+      "login_password" : "f71b31a02e7c64d825b57d94d6eb9589d151988aaddeab6a09a0166043ce9301",
+      "salt" : "hiuvsUUR"
+    },
+    {
+      "id" : 9,
+      "hostname" : "site9",
+      "login_password" : "36ca46a4355895c75bacd7ad75a7e5d7365d78fdfad93b26e6aa74aec3214121",
+      "salt" : "dv8jkww"
+    },
+    {
+      "id" : 10,
+      "hostname" : "site10",
+      "login_password" : "7a93c82797dda3c0a892de9dcfab50be5586346a7c8256b8fe8f112c0295a6f2",
+      "salt" : "vdfeg9867"
+    },
+    {
+      "id" : 11,
+      "hostname" : "site11",
+      "login_password" : "21afcf5fdccec49701cc304a9b50dece3c51c523f72bf030b76961ec61f91bb2",
+      "salt" : "qqijij"
+    }
+  ]
+}
